@@ -57,7 +57,7 @@ We sliced the `text-embedding-3-small` embeddings from **1536 dimensions** down 
 **1. Clone the repository**
 ```bash
 git clone [https://github.com/Shahab-Esfandiar/Turing-Session02-Project.git](https://github.com/Shahab-Esfandiar/Turing-Session02-Project.git)
-cd YOUR_REPOSITORY_NAME
+cd Turing-Session02-Project
 ```
 
 **2. Install dependencies**
