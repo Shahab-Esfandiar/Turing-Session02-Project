@@ -1,6 +1,6 @@
 # 🧠 Advanced RAG Architecture: Agentic Memory & Matryoshka Benchmarking
 
-An enterprise-grade AI engineering repository focused on solving two critical challenges in modern RAG (Retrieval-Augmented Generation) architectures: **Long-Term Memory Consistency (Conflict Resolution)** and **Vector Dimensionality Optimization (Matryoshka Representation Learning)**.
+This project focused on solving two critical challenges in modern RAG (Retrieval-Augmented Generation) architectures: **Long-Term Memory Consistency (Conflict Resolution)** and **Vector Dimensionality Optimization (Matryoshka Representation Learning)**.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange.svg)
